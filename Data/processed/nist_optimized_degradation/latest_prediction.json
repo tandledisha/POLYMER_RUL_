@@ -1,0 +1,23 @@
+{
+    "polymer_type": "Polyethylene",
+    "baseline_performance": 800.0,
+    "temperature_C": 27.0,
+    "humidity_percent": 77.0,
+    "uv_irradiance_W_m2": 2.5,
+    "aging_time_hours": 500.0,
+    "failure_threshold_percent": 70.0,
+    "degradation_threshold": 0.30000000000000004,
+    "current_degradation": 0.02728498900114422,
+    "current_performance": 778.1720087990847,
+    "estimated_RUL_hours": 1516.0,
+    "lower_RUL_hours": 540.6725135068045,
+    "upper_RUL_hours": null,
+    "RUL_interpretation": "RUL is greater than the remaining validated forecast horizon.",
+    "remaining_validated_horizon_hours": 1516.0,
+    "status": "beyond_validated_forecast",
+    "forecast_limit_hours": 2016.0,
+    "within_validated_forecast": false,
+    "uncertainty_degradation_q90": 0.209814894,
+    "uncertainty_method": "90th-percentile out-of-fold residual prototype",
+    "scenario_assumption": "Temperature, humidity and UV conditions remain constant."
+}

@@ -1,0 +1,3 @@
+dataset_family,rows,trajectories,time_points,minimum_time_hours,maximum_time_hours,target_min,target_max
+UV_mass,35,5,7,0.0,800.0,0.0,1.0
+RSOS,24,4,6,0.0,2500.0,0.0,0.49405

@@ -1,0 +1,25 @@
+dataset_family,trajectory_id,material,exposure_condition,exposure_time_hours,target_degradation,source_measurement,target_definition
+RSOS,RSOS_2% HS-944,Not_specified,2% HS-944,0.0,0.0,0.0,mechanical_degradation_index
+RSOS,RSOS_2% HS-944,Not_specified,2% HS-944,500.0,0.0644067,0.0644067,mechanical_degradation_index
+RSOS,RSOS_2% HS-944,Not_specified,2% HS-944,1000.0,0.15081975,0.15081975,mechanical_degradation_index
+RSOS,RSOS_2% HS-944,Not_specified,2% HS-944,1500.0,0.27003885,0.27003885,mechanical_degradation_index
+RSOS,RSOS_2% HS-944,Not_specified,2% HS-944,2000.0,0.3901597,0.3901597,mechanical_degradation_index
+RSOS,RSOS_2% HS-944,Not_specified,2% HS-944,2500.0,0.4493881,0.4493881,mechanical_degradation_index
+RSOS,RSOS_2% Nano-SiO2,Not_specified,2% Nano-SiO2,0.0,0.0,0.0,mechanical_degradation_index
+RSOS,RSOS_2% Nano-SiO2,Not_specified,2% Nano-SiO2,500.0,0.05946015,0.05946015,mechanical_degradation_index
+RSOS,RSOS_2% Nano-SiO2,Not_specified,2% Nano-SiO2,1000.0,0.1504978,0.1504978,mechanical_degradation_index
+RSOS,RSOS_2% Nano-SiO2,Not_specified,2% Nano-SiO2,1500.0,0.20587315,0.20587315,mechanical_degradation_index
+RSOS,RSOS_2% Nano-SiO2,Not_specified,2% Nano-SiO2,2000.0,0.30503025,0.30503025,mechanical_degradation_index
+RSOS,RSOS_2% Nano-SiO2,Not_specified,2% Nano-SiO2,2500.0,0.37738635,0.37738635,mechanical_degradation_index
+RSOS,RSOS_2% UV-327,Not_specified,2% UV-327,0.0,0.0,0.0,mechanical_degradation_index
+RSOS,RSOS_2% UV-327,Not_specified,2% UV-327,500.0,0.0736767,0.0736767,mechanical_degradation_index
+RSOS,RSOS_2% UV-327,Not_specified,2% UV-327,1000.0,0.17152585,0.17152585,mechanical_degradation_index
+RSOS,RSOS_2% UV-327,Not_specified,2% UV-327,1500.0,0.21736665,0.21736665,mechanical_degradation_index
+RSOS,RSOS_2% UV-327,Not_specified,2% UV-327,2000.0,0.3313256,0.3313256,mechanical_degradation_index
+RSOS,RSOS_2% UV-327,Not_specified,2% UV-327,2500.0,0.37981765,0.37981765,mechanical_degradation_index
+RSOS,RSOS_Control,Not_specified,Control,0.0,0.0,0.0,mechanical_degradation_index
+RSOS,RSOS_Control,Not_specified,Control,500.0,0.0732,0.0732,mechanical_degradation_index
+RSOS,RSOS_Control,Not_specified,Control,1000.0,0.29135,0.29135,mechanical_degradation_index
+RSOS,RSOS_Control,Not_specified,Control,1500.0,0.4128,0.4128,mechanical_degradation_index
+RSOS,RSOS_Control,Not_specified,Control,2000.0,0.4772,0.4772,mechanical_degradation_index
+RSOS,RSOS_Control,Not_specified,Control,2500.0,0.49405,0.49405,mechanical_degradation_index

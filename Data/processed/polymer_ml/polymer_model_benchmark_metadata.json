@@ -1,0 +1,35 @@
+{
+    "purpose": "Supervised polymer degradation model benchmark",
+    "validation": "Expanding-window temporal holdout",
+    "random_split": false,
+    "input_features": [
+        "exposure_time_hours",
+        "time_squared",
+        "material",
+        "exposure_condition"
+    ],
+    "target": "target_degradation",
+    "metrics": [
+        "R2",
+        "MAE",
+        "RMSE"
+    ],
+    "target_goal": "R2 >= 0.85",
+    "warning": "85-90% performance is not guaranteed. It must be demonstrated by temporal validation.",
+    "datasets": {
+        "UV_mass": {
+            "rows": 35,
+            "trajectories": 5,
+            "time_points": 7
+        },
+        "RSOS": {
+            "rows": 24,
+            "trajectories": 4,
+            "time_points": 6
+        }
+    },
+    "saved_models": [
+        "C:\\Users\\radha\\OneDrive\\Desktop\\PolyLife\\Data\\processed\\polymer_ml\\best_rsos_LinearRegression.joblib",
+        "C:\\Users\\radha\\OneDrive\\Desktop\\PolyLife\\Data\\processed\\polymer_ml\\best_uv_mass_GradientBoosting.joblib"
+    ]
+}
